@@ -27,6 +27,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Piyush-Pundir/leetcode/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -44,4 +45,16 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Piyush-Pundir/leetcode/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
