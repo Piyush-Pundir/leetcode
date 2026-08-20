@@ -35,6 +35,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -53,6 +54,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Piyush-Pundir/leetcode/tree/master/0037-sudoku-solver) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +74,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -85,6 +88,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -92,9 +96,14 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0102-binary-tree-level-order-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
