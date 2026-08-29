@@ -12,21 +12,30 @@
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        if (root == NULL) return ans;
-        stack<TreeNode*> st;
-        st.push(root);
-        while(!st.empty()) {
-            root = st.top();
-            st.pop();
-            ans.push_back(root->val);
-            if (root->right) {
-                st.push(root->right);
+        vector<int> inorder;
+        TreeNode *cur = root;
+        while (cur!=NULL) {
+            if(cur->left == NULL) {
+                inorder.push_back(cur->val);
+                cur = cur->right;
             }
-            if (root->left) {
-                st.push(root->left);
+            else {
+                TreeNode *prev = cur->left;
+                while (prev->right && prev->right != cur) {
+                    prev = prev->right;
+                }
+
+                if (prev->right == NULL) {
+                    prev->right = cur;
+                    inorder.push_back(cur->val);// whenever you are marking the thread this is the moment you store it in the ans
+                    cur = cur->left;
+                }
+                else {
+                    prev->right = NULL; // removing the thread
+                    cur = cur->right;
+                }
             }
         }
-        return ans;
+        return inorder;
     }
 };
