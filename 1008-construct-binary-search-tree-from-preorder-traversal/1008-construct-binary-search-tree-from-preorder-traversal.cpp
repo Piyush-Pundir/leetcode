@@ -11,37 +11,15 @@
  */
 class Solution {
 public:
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int n = preorder.size();
-        TreeNode* root = new TreeNode(preorder[0]);
-        if (n==1) return root;
-        BSTConstruction(root, preorder, 1, n-1);
-        return root;
+    TreeNode* bstFromPreorder(vector<int>& A) {
+        int i=0;
+        return build(A, i, INT_MAX);
     }
-    void BSTConstruction(TreeNode* root, vector<int>& preorder, int start, int end){
-        if (root == NULL || start>(preorder.size()-1) || end>(preorder.size()-1)) {
-            return;
-        }
-        int i=start;
-        while (i<=end) {
-            if (preorder[i]<root->val) {
-                i++;
-            } else {
-                break;
-            }
-        }
-        if (preorder[start]<root->val) {
-            root->left = new TreeNode(preorder[start]);
-            BSTConstruction(root->left, preorder, start+1, i-1);
-        } else {
-            root->left = NULL;
-        }
-        if (i<=end && preorder[i]>root->val) {
-            root->right = new TreeNode(preorder[i]);
-            BSTConstruction(root->right, preorder, i+1, end);
-        } else {
-            root->right = NULL;
-        }
-
+    TreeNode* build(vector<int> &A, int &i, int bound) {
+        if (i==A.size() || A[i]>bound) return NULL;
+        TreeNode* root = new TreeNode(A[i++]);
+        root->left = build(A, i, root->val);
+        root->right = build(A, i, bound);
+        return root;
     }
 };
