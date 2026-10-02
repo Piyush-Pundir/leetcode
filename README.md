@@ -11,6 +11,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0079-word-search](https://github.com/Piyush-Pundir/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
@@ -41,6 +42,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Pundir/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush-Pundir/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -55,6 +57,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/Piyush-Pundir/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Piyush-Pundir/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +152,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush-Pundir/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Piyush-Pundir/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -210,6 +214,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Piyush-Pundir/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
