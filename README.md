@@ -14,6 +14,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Piyush-Pundir/leetcode/tree/master/1020-number-of-enclaves) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Piyush-Pundir/leetcode/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -61,6 +63,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0079-word-search](https://github.com/Piyush-Pundir/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Piyush-Pundir/leetcode/tree/master/1020-number-of-enclaves) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +168,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Piyush-Pundir/leetcode/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
@@ -225,6 +229,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | ------- |
 | [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Piyush-Pundir/leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Piyush-Pundir/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
