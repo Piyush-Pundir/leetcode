@@ -29,9 +29,8 @@ public:
                 for (int j=0; j<4; j++) {
                     int nrow = row+delrow[j];
                     int ncol = col+delcol[j];
-                    if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && mat[nrow][ncol]==1) {
+                    if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && ans[nrow][ncol]==-1) {
                         ans[nrow][ncol]=cnt;
-                        mat[nrow][ncol]=0;
                         num--;
                         q.push({nrow, ncol});
                     }
