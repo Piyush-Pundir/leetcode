@@ -5,18 +5,21 @@ public:
         int n = grid[0].size();
         int time = 0;
         queue<pair<int, int>> q;
+        int fresh=0;
         // Adding all rooten oranges to queue
         for (int row=0; row<m; row++) {
             for (int col=0; col<n; col++) {
                 if (grid[row][col]==2) {
                     q.push({row, col});
+                } else if (grid[row][col]==1) {
+                    fresh++;
                 }
             }
         }
         //Applying bfs traversal to all rooten oranges added to queue
         int delrow[] = {-1, 0, 1, 0};
         int delcol[] = {0, 1, 0, -1};
-        while (!q.empty()) {
+        while (!q.empty() && fresh>0) {
             int size=q.size();
             for (int i=0; i<size; i++) {
                 int row = q.front().first;
@@ -26,6 +29,7 @@ public:
                     int nrow = row+delrow[j];
                     int ncol = col+delcol[j];
                     if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && grid[nrow][ncol]==1) {
+                        fresh--;
                         grid[nrow][ncol]=2;
                         q.push({nrow, ncol});
                     }
@@ -36,12 +40,8 @@ public:
             }
         }
         // Checking is all oranges becime rooten or not
-        for (int row=0; row<m; row++) {
-            for (int col=0; col<n; col++) {
-                if (grid[row][col]==1) {
-                    return -1;
-                }
-            }
+        if (fresh>0) {
+            return -1;
         }
         return time;
     }
