@@ -3,7 +3,7 @@ public:
     int ladderLength(string startWord, string targetWord, vector<string>& wordList) {
         queue<pair<string, int>> q;
         q.push({startWord, 1});
-        set<string> st(wordList.begin(), wordList.end());
+        unordered_set<string> st(wordList.begin(), wordList.end());
         st.erase(startWord);
         while(!q.empty()) {
             string word = q.front().first;
