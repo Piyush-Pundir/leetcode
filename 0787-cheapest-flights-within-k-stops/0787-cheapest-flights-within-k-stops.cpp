@@ -1,52 +1,54 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights,
-                          int src, int dst, int k) {
+                       int src, int dst, int K) {
 
-        vector<vector<pair<int,int>>> adj(n);
+        vector<pair<int, int>> adj[n];
 
-        for (auto &flight : flights) {
-            int u = flight[0];
-            int v = flight[1];
-            int price = flight[2];
-
-            adj[u].push_back({v, price});
+        for (auto it : flights) {
+            adj[it[0]].push_back({it[1], it[2]});
         }
 
-        // {cost, node, stops}
-        queue<tuple<int, int, int>> q;
+        queue<pair<int, pair<int, int>>> q;
+        // {stops, {node, dist}}
 
-        q.push({0, src, 0});
+        q.push({0, {src, 0}});
 
-        vector<int> dist(n, INT_MAX);
+        vector<int> dist(n, 1e9);
         dist[src] = 0;
 
         while (!q.empty()) {
 
-            auto [cost, node, stops] = q.front();
+            auto it = q.front();
             q.pop();
 
-            // Already used maximum allowed flights
-            // Don't expand further unless this is destination.
-            if (stops > k) continue;
+            int stops = it.first;
+            int node = it.second.first;
+            int cost = it.second.second;
 
-            for (auto [neighbor, price] : adj[node]) {
+            if (stops > K)
+                continue;
 
-                int newCost = cost + price;
+            for (auto iter : adj[node]) {
 
-                if (newCost < dist[neighbor]) {
+                int adjNode = iter.first;
+                int edW = iter.second;
 
-                    dist[neighbor] = newCost;
+                if (cost + edW < dist[adjNode] && stops <= K) {
+
+                    dist[adjNode] = cost + edW;
 
                     q.push({
-                        newCost,
-                        neighbor,
-                        stops + 1
+                        stops + 1,
+                        {adjNode, cost + edW}
                     });
                 }
             }
         }
 
-        return dist[dst] == INT_MAX ? -1 : dist[dst];
+        if (dist[dst] == 1e9)
+            return -1;
+
+        return dist[dst];
     }
 };
