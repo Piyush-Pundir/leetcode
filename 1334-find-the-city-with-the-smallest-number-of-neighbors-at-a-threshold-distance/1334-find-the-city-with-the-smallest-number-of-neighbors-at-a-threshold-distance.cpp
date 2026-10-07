@@ -1,50 +1,63 @@
 class Solution {
 public:
-int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<pair<int,int>> adj[n];
-        for(auto it:edges)
-        {
-            adj[it[0]].push_back({it[1],it[2]});
-            adj[it[1]].push_back({it[0],it[2]});
+    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
+        
+        vector<vector<pair<int, int>>> adj(n);
+
+        for (auto it : edges) {
+            int u = it[0];
+            int v = it[1];
+            int wt = it[2];
+
+            adj[u].push_back({v, wt});
+            adj[v].push_back({u, wt});
         }
-        
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
-        
-        int cityno,mincitycount=1e9;
-        
-        for(int i=0;i<n;i++)
-        {
-            vector<int> dist(n,1e9);
-            pq.push({0,i});
-            dist[i]=0;
-            while(!pq.empty())
-            {
-                int distance=pq.top().first;
-                int node=pq.top().second;
+
+        int cntCity = n;
+        int cityNo = -1;
+
+        for (int src = 0; src < n; src++) {
+
+            vector<int> dist(n, INT_MAX);
+            priority_queue<pair<int, int>,
+                           vector<pair<int, int>>,
+                           greater<pair<int, int>>> pq;
+
+            dist[src] = 0;
+            pq.push({0, src});
+
+            while (!pq.empty()) {
+                auto [dis, node] = pq.top();
                 pq.pop();
-                for(auto it:adj[node])
-                {
-                    int adjNode=it.first;
-                    int adjWeight=it.second;
-                    if(distance + adjWeight < dist[adjNode])
-                    {
-                        dist[adjNode] = distance + adjWeight;
-                        pq.push({dist[adjNode],adjNode});
+
+                if (dis > dist[node])
+                    continue;
+
+                for (auto it : adj[node]) {
+                    int adjNode = it.first;
+                    int wt = it.second;
+
+                    if (dis + wt < dist[adjNode]) {
+                        dist[adjNode] = dis + wt;
+                        pq.push({dist[adjNode], adjNode});
                     }
                 }
             }
-            int count=0;
-            for(int j=0;j<n;j++)
-            {
-                if(dist[j]<=distanceThreshold)
-                    count++;
+
+            int cnt = 0;
+
+            for (int i = 0; i < n; i++) {
+                if (dist[i] <= distanceThreshold)
+                    cnt++;
             }
-            if(count<=mincitycount)
-            {
-                mincitycount=count;
-                cityno = i;
+
+            // <= because in case of tie, choose larger city number
+            if (cnt <= cntCity) {
+                cntCity = cnt;
+                cityNo = src;
             }
         }
-        return cityno;
+
+        return cityNo;
     }
 };
