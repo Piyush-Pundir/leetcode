@@ -15,6 +15,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Piyush-Pundir/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Piyush-Pundir/leetcode/tree/master/1020-number-of-enclaves) |
@@ -65,6 +66,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Piyush-Pundir/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-Pundir/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Pundir/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Pundir/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -81,6 +83,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Piyush-Pundir/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Piyush-Pundir/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -204,6 +207,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Piyush-Pundir/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-Pundir/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Pundir/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush-Pundir/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -236,6 +240,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush-Pundir/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Pundir/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
@@ -277,6 +282,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0130-surrounded-regions](https://github.com/Piyush-Pundir/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Piyush-Pundir/leetcode/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Piyush-Pundir/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Piyush-Pundir/leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Pundir/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -335,12 +341,14 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Piyush-Pundir/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Pundir/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Pundir/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Piyush-Pundir/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush-Pundir/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Pundir/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Piyush-Pundir/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -359,4 +367,8 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush-Pundir/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
