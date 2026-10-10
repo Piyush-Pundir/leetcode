@@ -93,12 +93,14 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Piyush-Pundir/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush-Pundir/leetcode/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/Piyush-Pundir/leetcode/tree/master/0282-expression-add-operators) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Pundir/leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Piyush-Pundir/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush-Pundir/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Piyush-Pundir/leetcode/tree/master/0198-house-robber) |
@@ -381,4 +383,8 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Piyush-Pundir/leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Piyush-Pundir/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
