@@ -1,5 +1,6 @@
 class Solution {
 private:
+    int mod = (int)(2*(1e9));
     int f(int i, int j, vector<vector<int>> &dp, vector<vector<int>>& obstacleGrid) {
         if (i>=0 && j>=0 && obstacleGrid[i][j]==1) return 0;
         if (i==0 && j==0) return 1;
@@ -7,7 +8,7 @@ private:
         if (dp[i][j]!=-1) return dp[i][j];
         int up = f(i-1, j, dp, obstacleGrid);
         int left = f(i, j-1, dp, obstacleGrid);
-        return dp[i][j] = up+left;
+        return dp[i][j] = (up+left)%mod;
     }
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
