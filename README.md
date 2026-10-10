@@ -14,6 +14,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0130-surrounded-regions](https://github.com/Piyush-Pundir/leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Piyush-Pundir/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -101,6 +102,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0070-climbing-stairs](https://github.com/Piyush-Pundir/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Piyush-Pundir/leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Pundir/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush-Pundir/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
