@@ -5,7 +5,7 @@ private:
 
         if (i == 0) return matrix[0][j];
 
-        if (dp[i][j] != INT_MAX) return dp[i][j];
+        if (dp[i][j] != -1e9) return dp[i][j];
 
         int u = matrix[i][j] + f(i - 1, j, matrix, dp);
         int ld = matrix[i][j] + f(i - 1, j - 1, matrix, dp);
@@ -19,7 +19,7 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        vector<vector<int>> dp(n, vector<int>(m, INT_MAX));
+        vector<vector<int>> dp(n, vector<int>(m, -1e9));
         int maxi = INT_MAX;
 
         for (int j = 0; j < m; j++) {
