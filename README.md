@@ -9,6 +9,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0037-sudoku-solver](https://github.com/Piyush-Pundir/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Piyush-Pundir/leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Piyush-Pundir/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -82,6 +83,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/Piyush-Pundir/leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Piyush-Pundir/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Piyush-Pundir/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
@@ -104,6 +106,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0022-generate-parentheses](https://github.com/Piyush-Pundir/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Piyush-Pundir/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Piyush-Pundir/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Piyush-Pundir/leetcode/tree/master/0198-house-robber) |
