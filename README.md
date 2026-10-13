@@ -24,6 +24,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0213-house-robber-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Piyush-Pundir/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush-Pundir/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -130,6 +131,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0213-house-robber-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Piyush-Pundir/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush-Pundir/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Pundir/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush-Pundir/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -418,4 +420,5 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush-Pundir/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
