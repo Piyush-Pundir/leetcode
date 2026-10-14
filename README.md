@@ -23,6 +23,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0200-number-of-islands](https://github.com/Piyush-Pundir/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Piyush-Pundir/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Piyush-Pundir/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush-Pundir/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -132,6 +133,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0198-house-robber](https://github.com/Piyush-Pundir/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Piyush-Pundir/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Piyush-Pundir/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush-Pundir/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -242,6 +244,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0207-course-schedule](https://github.com/Piyush-Pundir/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Piyush-Pundir/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Piyush-Pundir/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyush-Pundir/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -428,6 +431,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Piyush-Pundir/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -435,4 +439,8 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Piyush-Pundir/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
