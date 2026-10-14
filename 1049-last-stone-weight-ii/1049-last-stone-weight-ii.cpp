@@ -7,30 +7,32 @@ public:
 
 
         int target = totSum;
-        vector<vector<bool>> dp(n, vector<bool>(target + 1, 0));
+        vector<bool> prev(target + 1, 0), cur(target + 1, 0);
 
-        for (int i = 0; i < n; i++)
-            dp[i][0] = true;
+        prev[0] = true;
 
         if (arr[0] <= target)
-            dp[0][arr[0]] = true;
+            prev[arr[0]] = true;
 
         for (int ind = 1; ind < n; ind++) {
+            cur[0] = true;
+
             for (int t = 1; t <= target; t++) {
-                bool notTake = dp[ind - 1][t];
-
+                bool notTake = prev[t];
                 bool take = false;
-                if (arr[ind] <= t)
-                    take = dp[ind - 1][t - arr[ind]];
 
-                dp[ind][t] = take || notTake;
+                if (arr[ind] <= t)
+                    take = prev[t - arr[ind]];
+
+                cur[t] = take | notTake;
             }
+            prev = cur;
         }
 
         // dp[n-1][col->0....totalSum]
         int mini = 1e9;
         for (int s1=0; s1<=totSum/2; s1++) {
-            if (dp[n-1][s1]==true) {
+            if (prev[s1]==true) {
                 mini = min(mini, abs((totSum-s1)-s1));
             }
         }
@@ -39,3 +41,7 @@ public:
 
     }
 };
+
+
+
+
