@@ -52,6 +52,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0127-word-ladder](https://github.com/Piyush-Pundir/leetcode/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/Piyush-Pundir/leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0516-longest-palindromic-subsequence](https://github.com/Piyush-Pundir/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Piyush-Pundir/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -148,6 +149,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0368-largest-divisible-subset](https://github.com/Piyush-Pundir/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Piyush-Pundir/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Piyush-Pundir/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
