@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int longestCommonSubsequence(string text1, string text2) {
+    int lcs(string text1, string text2) {
         int n = text1.size();
         int m = text2.size();
 
@@ -22,7 +22,6 @@ public:
         return prev[m];
     }
     int minDistance(string word1, string word2) {
-        int ans = longestCommonSubsequence(word1, word2);
-        return (word1.size()-ans) + (word2.size() - ans);
+        return (word1.size() + word2.size() - 2*lcs(word1, word2));
     }
 };
