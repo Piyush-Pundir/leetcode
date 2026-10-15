@@ -55,6 +55,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0516-longest-palindromic-subsequence](https://github.com/Piyush-Pundir/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Piyush-Pundir/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Piyush-Pundir/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +161,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [1049-last-stone-weight-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Piyush-Pundir/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush-Pundir/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Piyush-Pundir/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush-Pundir/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Piyush-Pundir/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
