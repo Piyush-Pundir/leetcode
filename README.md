@@ -48,6 +48,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Pundir/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Piyush-Pundir/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Piyush-Pundir/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Piyush-Pundir/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Piyush-Pundir/leetcode/tree/master/0115-distinct-subsequences) |
@@ -136,6 +137,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Pundir/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Piyush-Pundir/leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Piyush-Pundir/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0064-minimum-path-sum) |
@@ -460,6 +462,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Piyush-Pundir/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush-Pundir/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Knapsack Problem
@@ -500,4 +503,8 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0583-delete-operation-for-two-strings](https://github.com/Piyush-Pundir/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush-Pundir/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Piyush-Pundir/leetcode/tree/master/1143-longest-common-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Piyush-Pundir/leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
