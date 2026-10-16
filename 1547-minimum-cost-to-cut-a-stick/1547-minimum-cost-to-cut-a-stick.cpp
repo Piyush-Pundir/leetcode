@@ -25,7 +25,7 @@ public:
 
         int c = cuts.size() - 2;
 
-        vector<vector<int>> dp(c + 2, vector<int>(c + 2, -1));
+        vector<vector<int>> dp(c + 1, vector<int>(c + 1, -1));
 
         return f(1, c, cuts, dp);
     }
