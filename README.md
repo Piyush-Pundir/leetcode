@@ -43,6 +43,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush-Pundir/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Pundir/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Pundir/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
@@ -174,6 +175,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Piyush-Pundir/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush-Pundir/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Pundir/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Piyush-Pundir/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
@@ -304,6 +306,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0368-largest-divisible-subset](https://github.com/Piyush-Pundir/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Pundir/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Binary Lifting
 |  |
 | ------- |
