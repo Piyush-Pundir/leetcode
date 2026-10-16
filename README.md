@@ -49,6 +49,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Pundir/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Piyush-Pundir/leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Piyush-Pundir/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Piyush-Pundir/leetcode/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/Piyush-Pundir/leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -138,6 +139,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0063-unique-paths-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Piyush-Pundir/leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Piyush-Pundir/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Piyush-Pundir/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush-Pundir/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
