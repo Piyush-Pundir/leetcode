@@ -535,4 +535,8 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyush-Pundir/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Piyush-Pundir/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
