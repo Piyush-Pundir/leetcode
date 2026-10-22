@@ -51,6 +51,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Piyush-Pundir/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Piyush-Pundir/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Piyush-Pundir/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Piyush-Pundir/leetcode/tree/master/0072-edit-distance) |
@@ -188,6 +189,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Piyush-Pundir/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Piyush-Pundir/leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -530,6 +532,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Piyush-Pundir/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyush-Pundir/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
