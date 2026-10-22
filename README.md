@@ -63,6 +63,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0132-palindrome-partitioning-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0282-expression-add-operators](https://github.com/Piyush-Pundir/leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/Piyush-Pundir/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Piyush-Pundir/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Piyush-Pundir/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
@@ -196,6 +197,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush-Pundir/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Piyush-Pundir/leetcode/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/Piyush-Pundir/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyush-Pundir/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Piyush-Pundir/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -537,6 +539,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Piyush-Pundir/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Piyush-Pundir/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Piyush-Pundir/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Pundir/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyush-Pundir/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
