@@ -35,6 +35,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush-Pundir/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Piyush-Pundir/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0904-fruit-into-baskets](https://github.com/Piyush-Pundir/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Piyush-Pundir/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Pundir/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -197,6 +198,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0127-word-ladder](https://github.com/Piyush-Pundir/leetcode/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyush-Pundir/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/Piyush-Pundir/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
 ## Stack
@@ -535,6 +537,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Piyush-Pundir/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Piyush-Pundir/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Pundir/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyush-Pundir/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
