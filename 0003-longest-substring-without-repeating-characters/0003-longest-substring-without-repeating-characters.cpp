@@ -9,19 +9,17 @@ public:
         int n=s.size();
         int maxLength=0;
         while (r<n) {
-            if (hash[s[r]]==0) {
-                hash[s[r]]=1;
-                maxLength = max(r-l+1, maxLength);
-                r++;
-            } else {
+            if (hash[s[r]]==1) {
                 while (s[l]!=s[r]) {
                     hash[s[l]]=0;
                     l++;
                 }
+                hash[s[l]]=0;
                 l++;
-                maxLength = max(r-l+1, maxLength);
-                r++;
             }
+            hash[s[r]]=1;
+            maxLength = max(r-l+1, maxLength);
+            r++;
         }
         return maxLength;
     }
