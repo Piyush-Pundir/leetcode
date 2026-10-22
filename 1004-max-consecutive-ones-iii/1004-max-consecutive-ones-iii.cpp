@@ -9,7 +9,7 @@ public:
                     l++;
                 }
                 l++;
-                zeros=k;
+                zeros--;
             }
             maxLength = max(maxLength, r-l+1);
             r++;
