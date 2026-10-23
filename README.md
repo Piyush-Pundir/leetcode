@@ -28,6 +28,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0322-coin-change](https://github.com/Piyush-Pundir/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Piyush-Pundir/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Piyush-Pundir/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/0542-01-matrix) |
@@ -330,6 +331,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Piyush-Pundir/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0455-assign-cookies](https://github.com/Piyush-Pundir/leetcode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Pundir/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -415,6 +417,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Piyush-Pundir/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyush-Pundir/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
 ## Topological Sort
@@ -495,6 +498,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | ------- |
 | [0044-wildcard-matching](https://github.com/Piyush-Pundir/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/Piyush-Pundir/leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush-Pundir/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Knapsack Problem
 |  |
@@ -579,4 +583,8 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Piyush-Pundir/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Piyush-Pundir/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
