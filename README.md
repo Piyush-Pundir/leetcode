@@ -47,6 +47,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush-Pundir/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Pundir/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush-Pundir/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyush-Pundir/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -147,6 +148,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0070-climbing-stairs](https://github.com/Piyush-Pundir/leetcode/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/Piyush-Pundir/leetcode/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Piyush-Pundir/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Pundir/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +212,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Piyush-Pundir/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Pundir/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush-Pundir/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
@@ -553,6 +556,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0930-binary-subarrays-with-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Piyush-Pundir/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Pundir/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Pundir/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush-Pundir/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyush-Pundir/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -560,6 +564,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Pundir/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Pundir/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyush-Pundir/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Database
 |  |
