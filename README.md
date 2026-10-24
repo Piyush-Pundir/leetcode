@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/Piyush-Pundir/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Piyush-Pundir/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Piyush-Pundir/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Piyush-Pundir/leetcode/tree/master/0079-word-search) |
@@ -156,6 +157,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/Piyush-Pundir/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Piyush-Pundir/leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Piyush-Pundir/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Piyush-Pundir/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Piyush-Pundir/leetcode/tree/master/0064-minimum-path-sum) |
@@ -498,6 +500,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Piyush-Pundir/leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Piyush-Pundir/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Piyush-Pundir/leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush-Pundir/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
