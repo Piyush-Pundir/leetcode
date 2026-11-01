@@ -58,6 +58,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [1463-cherry-pickup-ii](https://github.com/Piyush-Pundir/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Pundir/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Pundir/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Piyush-Pundir/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -342,6 +343,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush-Pundir/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Piyush-Pundir/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Piyush-Pundir/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -427,6 +429,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0455-assign-cookies](https://github.com/Piyush-Pundir/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyush-Pundir/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/Piyush-Pundir/leetcode/tree/master/1048-longest-string-chain) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Piyush-Pundir/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Topological Sort
 |  |
 | ------- |
@@ -465,6 +468,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0778-swim-in-rising-water](https://github.com/Piyush-Pundir/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush-Pundir/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush-Pundir/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Piyush-Pundir/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -510,6 +514,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [0455-assign-cookies](https://github.com/Piyush-Pundir/leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush-Pundir/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Piyush-Pundir/leetcode/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Piyush-Pundir/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -580,6 +585,7 @@ My LeetCode solutions and DSA practice repository. Consistently solving problems
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush-Pundir/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush-Pundir/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Piyush-Pundir/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Piyush-Pundir/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Database
 |  |
 | ------- |
